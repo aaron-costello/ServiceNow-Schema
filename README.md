@@ -1,2 +1,2 @@
 # ServiceNow-Schema
-A shortlist of core ServiceNow tables and fields.
+A shortlist of core ServiceNow tables.
