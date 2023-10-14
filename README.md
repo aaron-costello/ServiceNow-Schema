@@ -1,2 +1,2 @@
 # ServiceNow-Schema
-A shortlist of core ServiceNow tables.
+Useful table names, and table/field pairs, when testing ServiceNow for data exposure.
