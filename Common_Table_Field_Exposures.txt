@@ -16,3 +16,15 @@
 ?t=cmn_notif_device&f=email_address
 ?t=sys_portal_age&f=display_name
 ?t=incident&f=short_description
+?t=incident&f=comments_and_work_notes
+?t=cmdb_ci_app_server_tomcat&f=name
+?t=cmdb_ci_app_server_tomcat&f=install_directory
+?t=svc_container&f=name
+?t=cmdb_ci_app_server_jboss&f=name
+?t=cmdb_ci_app_server_jboss&f=install_directory
+?t=cmdb_ci_app_server_tomcat_war&f=name
+?t=cmdb_ci_app_server_tomcat_war&f=install_directory
+?t=cmdb_ci_app_server_websphere&f=name
+?t=cmdb_ci_app_server_websphere&f=install_directory
+?t=task&f=short_description
+?t=task&f=comments_and_work_notes
